@@ -8,7 +8,7 @@ force-http-engine-hosts = %APPEND% :8000
 
 [Rule]
 #>微博
-DOMAIN,wbapp.uve.weibo.com,DIRECT,extended-matching,pre-matching
+DOMAIN,wbapp.uve.weibo.com,DIRECT,extended-matching
 DOMAIN-SUFFIX,biz.weibo.com,REJECT,extended-matching,pre-matching
 DOMAIN,dns.weibo.cn,REJECT,extended-matching,pre-matching
 IP-CIDR,39.97.130.51/32,REJECT,no-resolve
@@ -32,7 +32,7 @@ DOMAIN,yk-ssp.ad.youku.com,REJECT,extended-matching,pre-matching
 DOMAIN,ykad-data.youku.com,REJECT,extended-matching,pre-matching
 
 #>12306
-DOMAIN,ad.12306.cn,DIRECT
+DOMAIN,ad.12306.cn,DIRECT,extended-matching
 
 #>淘宝
 DOMAIN,adashx.m.taobao.com,REJECT,extended-matching,pre-matching
