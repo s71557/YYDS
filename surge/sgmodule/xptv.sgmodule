@@ -2,6 +2,7 @@
 #!name=XPTV规则
 #!desc=仅直连
 [Rule]
+DOMAIN-SUFFIX, xptvhelper.link, DIRECT
 #已标注了大部分可直连的地址,遇到无法直连的情况自行调整
 #XPTV主站-部分地区可以直连自行尝试
 #DOMAIN, infuseku.xyz, DIRECT
@@ -36,7 +37,7 @@ DOMAIN, mihdr.top, DIRECT
 #木偶
 DOMAIN-SUFFIX, mogg.top, DIRECT
 #玩偶
-DOMAIN-SUFFIX, wogg.net, DIRECT
+DOMAIN-SUFFIX, wogg.one, DIRECT
 #雷鲸
 DOMAIN, www.leijing.xyz, DIRECT
 #校长
