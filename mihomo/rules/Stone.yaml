@@ -1,4 +1,6 @@
 payload:
+  #其他
+  - DOMAIN-SUFFIX,snssdk.com
   # Github加速
   - DOMAIN-SUFFIX,imee.me
   - DOMAIN-SUFFIX,shizongliang.eu.org
