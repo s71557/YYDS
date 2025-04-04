@@ -1,0 +1,7 @@
+payload:
+  # Github加速
+  - DOMAIN-SUFFIX,imee.me
+  - DOMAIN-SUFFIX,shizongliang.eu.org
+ # 自己
+  - DOMAIN-SUFFIX,shizongliang.cn
+  - DOMAIN-SUFFIX,715577.xyz
