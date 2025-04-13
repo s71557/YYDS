@@ -9,8 +9,9 @@ payload:
   - DOMAIN-SUFFIX,shizongliang.cn
   - DOMAIN-SUFFIX,715577.xyz
   
-  ## TPTV
+ ## TPTV
   - DOMAIN-SUFFIX,mobaibox.com
+  - IP-CIDR,183.207.0.0/16,no-resolve
 
   ## YSP
   - DOMAIN-SUFFIX,cctv.cn
@@ -20,4 +21,3 @@ payload:
   - DOMAIN-SUFFIX,dnsany.com
   - DOMAIN-SUFFIX,cmvideo.cn
   - DOMAIN-SUFFIX,chinamobile.com
-  
