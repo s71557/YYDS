@@ -2,6 +2,7 @@ payload:
   #需要直连
   - DOMAIN-SUFFIX,fuliba2025.net
   - DOMAIN-SUFFIX,snssdk.com
+  - DOMAIN-SUFFIX,mefrp.com
   # Github加速
   - DOMAIN-SUFFIX,imee.me
   - DOMAIN-SUFFIX,shizongliang.eu.org
