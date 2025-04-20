@@ -7,11 +7,7 @@ payload:
   ## 4GTV & Hamivideo
   - DOMAIN-SUFFIX,4gtv.tv
   - DOMAIN-SUFFIX,hinet.net
-  #- DOMAIN-SUFFIX,ofiii.com
-
-  ## YouTube
-  - DOMAIN-SUFFIX,googlevideo.com
-  - DOMAIN-SUFFIX,youtube.com
+  - DOMAIN-SUFFIX,ofiii.com
 
   ## MytvSuper
   - DOMAIN-SUFFIX,mytvsuper.com
