@@ -6,12 +6,13 @@ payload:
   - DOMAIN-SUFFIX,kuyun.com
   # Github加速
   - DOMAIN-SUFFIX,imee.me
-  - DOMAIN-SUFFIX,shizongliang.eu.org
-  - DOMAIN-SUFFIX,71557.dpdns.org
  # 自己
   - DOMAIN-SUFFIX,shizongliang.cn
   - DOMAIN-SUFFIX,715577.xyz
-  
+  - DOMAIN-SUFFIX,shizongliang.eu.org
+  - DOMAIN-SUFFIX,71557.dpdns.org
+  - DOMAIN-SUFFIX,7555.dpdns.org
+  - DOMAIN-SUFFIX,shizongliang.dpdns.org
  ## TPTV
   - DOMAIN-SUFFIX,mobaibox.com
   - IP-CIDR,183.207.0.0/16,no-resolve
