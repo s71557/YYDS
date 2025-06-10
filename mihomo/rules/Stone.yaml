@@ -17,6 +17,7 @@ payload:
   - DOMAIN-SUFFIX,shizongliang.dpdns.org
  ## TPTV
   - DOMAIN-SUFFIX,mobaibox.com
+  - DOMAIN-SUFFIX,myip.ipip.net
   - IP-CIDR,183.207.0.0/16,no-resolve
 
   ## YSP
